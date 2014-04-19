@@ -1,0 +1,27 @@
+
+    <resources>
+        <color name="bg_light_gray">#DADADA</color>
+        <color name="bg_white">#FFFFFF</color>
+        <color name="bg_alpha">#00000000</color>
+
+        <color name="white">#FFFFFF</color>
+        <color name="blue">#0066FF</color>
+        <color name="no_color">#00000000</color>
+        <color name="bg_color">#F4F3F3</color>
+        <color name="bg_color_deep">#E5E5E5</color>
+        <color name="black">#000000</color>
+        <color name="text_color">#434343</color>
+        <color name="black_half">#b6000000</color>
+        <color name="pass">#ffe5d6c2</color>
+        <color name="top">#CECECD</color>
+        <color name="top_text">#5ac994</color>
+        <color name="top_text_">#f68484</color>
+        <color name="top_text__">#8495a1</color>
+        <color name="main_bg">#14439C</color>
+
+        <color name="dribbble_graphite">#333333</color>
+        <color name="dribbble_pink">#ea4c89</color>
+        <color name="dribbble_green">#8aba56</color>
+        <color name="user_n">#d6000000</color>
+        <color name="user_p">#50000000</color>
+    </resources>
